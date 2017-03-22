@@ -1,0 +1,6 @@
+def summ_something():
+x=3
+y=4
+return x+y
+
+print(summ_something())
